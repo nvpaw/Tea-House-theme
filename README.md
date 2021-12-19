@@ -2,7 +2,6 @@
 
 ![screenshot](https://user-images.githubusercontent.com/95512568/146679586-741ccd86-7333-44d6-8508-b27e742e9b92.png)
 
-
 ## About
 - A dark theme for VSCode
 ## Install
