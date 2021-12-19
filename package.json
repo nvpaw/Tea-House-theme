@@ -1,8 +1,19 @@
 {
     "name": "thatteahousetheme",
     "displayName": "Tea House theme",
-    "description": "Tea House..",
+    "description": "a dark theme.",
     "version": "0.0.1",
+    "icon": "./icon.png",
+    "publisher": "FireMegrez",
+    "author": "FireMegrez",
+    "galleryBanner": {
+        "color": "1a1a1a",
+        "theme": "dark"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/FireMegrez/Tea-House-theme"
+    },
     "engines": {
         "vscode": "^1.63.0"
     },
