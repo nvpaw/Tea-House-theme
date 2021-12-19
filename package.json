@@ -1,8 +1,8 @@
 {
     "name": "thatteahousetheme",
     "displayName": "Tea House Theme",
-    "description": "a dark theme.",
-    "version": "0.0.1",
+    "description": "Theme designed on VSCode - A dark theme",
+    "version": "0.0.2",
     "publisher": "FireMegrez",
     "author": "FireMegrez",
     "galleryBanner": {

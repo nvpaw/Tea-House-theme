@@ -5,7 +5,7 @@
 ## About
 - A dark theme for VSCode
 ## Install
-- [Click here]()
+- [Click here](https://marketplace.visualstudio.com/items?itemName=FireMegrez.thatteahousetheme)
 ## Usage
 - Open Visual Studio Code
 - Ctrl + K Ctrl + T
