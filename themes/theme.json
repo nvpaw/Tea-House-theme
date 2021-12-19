@@ -416,7 +416,7 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "",
 				"foreground": "#535284"
 			}
 		},
@@ -493,7 +493,7 @@
 				"support.function"
 			],
 			"settings": {
-				"fontStyle": "bold",
+				"fontStyle": "",
 				"foreground": "#f2b5f5"
 			}
 		},
@@ -505,7 +505,7 @@
 				"support.class"
 			],
 			"settings": {
-				"fontStyle": "bold",
+				"fontStyle": "",
 				"foreground": "#e990b5"
 			}
 		},
@@ -520,7 +520,7 @@
 			"name": "Sections",
 			"scope": "entity.name.section",
 			"settings": {
-				"fontStyle": "bold"
+				"fontStyle": ""
 			}
 		},
 		{
@@ -607,7 +607,7 @@
 				"entity.other.attribute-name.html"
 			],
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "",
 				"foreground": "#99b64f"
 			}
 		},
@@ -648,7 +648,7 @@
 			"name": "CSS: Important Keyword",
 			"scope": "keyword.other.important",
 			"settings": {
-				"fontStyle": "bold"
+				"fontStyle": ""
 			}
 		},
 		{
@@ -667,9 +667,9 @@
 		},
 		{
 			"name": "Markup: Emphasis",
-			"scope": "markup.italic",
+			"scope": "markup.",
 			"settings": {
-				"fontStyle": "italic"
+				"fontStyle": ""
 			}
 		},
 		{
@@ -719,9 +719,9 @@
 		},
 		{
 			"name": "Markup: Strong",
-			"scope": "markup.bold",
+			"scope": "markup.",
 			"settings": {
-				"fontStyle": "bold"
+				"fontStyle": ""
 			}
 		},
 		{
@@ -755,8 +755,8 @@
 		{
 			"name": "Markup Styling",
 			"scope": [
-				"markup.bold",
-				"markup.italic"
+				"markup.",
+				"markup."
 			],
 			"settings": {
 				"foreground": "#99b64f"
