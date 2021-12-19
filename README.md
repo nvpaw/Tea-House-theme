@@ -11,7 +11,7 @@
 - Ctrl + K Ctrl + T
 - Set the theme to **Tea House (theme)**
 ## Contribute
-- [Click here]()
+- [Click here](https://github.com/FireMegrez/Tea-House-theme/issues)
 
 # License
 [MIT License](./LICENSE)
