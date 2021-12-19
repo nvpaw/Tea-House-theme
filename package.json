@@ -1,0 +1,27 @@
+{
+    "name": "thatteahousetheme",
+    "displayName": "Tea House theme",
+    "description": "Tea House..",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes",
+        "Other"
+    ],
+    "keywords": [
+        "theme",
+        "dark",
+        "tea-house"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Tea House (theme)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/theme.json"
+            }
+        ]
+    }
+}
