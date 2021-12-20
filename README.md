@@ -1,17 +1,13 @@
-# Neptune Theme
+<div align="center">
 
-![screenshot](https://user-images.githubusercontent.com/95512568/146679586-741ccd86-7333-44d6-8508-b27e742e9b92.png)
+![screenshot-1-TeaHouse](https://user-images.githubusercontent.com/95512568/146698017-f3bcd5b9-0156-4ff1-9333-b238f76769c3.png)
+</br>
+</br>
+  
+Dowload _Tea House Theme_ from [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=FireMegrez.thatteahousetheme)
+</br>
+</br>
 
-## About
-- A dark theme for VSCode
-## Install
-- [Click here](https://marketplace.visualstudio.com/items?itemName=FireMegrez.thatteahousetheme)
-## Usage
-- Open Visual Studio Code
-- Ctrl + K Ctrl + T
-- Set the theme to **Tea House (theme)**
-## Contribute
-- [Click here](https://github.com/FireMegrez/Tea-House-theme/issues)
+![screenshot-2-TeaHouse](https://user-images.githubusercontent.com/95512568/146698212-6f72bdc9-325a-41df-a25d-49ddfe61b2c0.png)
 
-# License
-[MIT License](./LICENSE)
+</div>
